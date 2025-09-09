@@ -1,7 +1,7 @@
 # 💻 Laptop E-Shop (PHP + MySQL)
 
 ## 📌 Overview
-Laptop E-Shop is a **demo e-commerce portal** built as my **final year Bachelor’s project** during my internship at TridyaTech (2021–2022).  
+Laptop E-Shop is a **demo e-commerce portal** built as my **final year Bachelor’s project** .  
 The project provides a functional shopping website for purchasing laptops, with a customer-facing storefront and an admin panel for management.  
 
 This work demonstrates the use of **PHP, MySQL, HTML, CSS, JavaScript, Bootstrap, and jQuery** in building a responsive and user-friendly online shopping system.
@@ -40,10 +40,6 @@ This work demonstrates the use of **PHP, MySQL, HTML, CSS, JavaScript, Bootstrap
 
 ---
 
-## 📸 Screenshots
-(Add screenshots of homepage, product page, cart, and admin panel here)
-
----
 
 ## 🚧 Limitations
 - Runs only on **local server** (XAMPP/WAMP).  
