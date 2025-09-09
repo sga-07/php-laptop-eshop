@@ -1,0 +1,8 @@
+NVIDIA® GeForce RTX™ 3070 Ti Laptop GPU
+Windows 11 Home
+12th Gen Intel® Core™ i9
+43.94cm(17.3"),WQHD (2560 x 1440) 16:9,Refresh Rate : 240Hz
+2TB M.2 NVMe™ PCIe® 4.0 SSD Supports slots up to max of: 4TB M.2 NVMe™ PCIe® 4.0 SSD
+N/A+16GB DDR5 SO-DIMM
+
+2,61,990.00

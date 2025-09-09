@@ -1,0 +1,15 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# PHP/Server
+.env
+config.php
+*.log
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Cache
+*.swp

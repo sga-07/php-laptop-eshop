@@ -1,0 +1,9 @@
+Legion_7i
+Processor : 10th Generation Intel® Core™ i7-10750H Processor (2.60 GHz, up to 5.00 GHz with Turbo Boost, 6 Cores, 12 Threads, 12 MB Cache)
+Operating System : Windows 10 Home 64
+Graphics : NVIDIA® GeForce® RTX™ 2070 with Max-Q 8GB
+Memory : 16 GB DDR4 2933MHz (2 x 8 GB)
+Storage : 1 TB PCIe SSD
+Display : 15.6" FHD (1920 x 1080) IPS, anti-glare, 300 nits, 144Hz
+Warranty : 1 Year Legion Ultimate Support
+price-1,99,990.
