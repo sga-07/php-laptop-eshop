@@ -25,16 +25,16 @@ Follow these steps to set up and run the project on your local machine:
    ```
    /SQL/shopping.sql
    ```
-   (Path may differ if included in another folder like `db/`.)
+   
 
 ---
 
 ## 3. Run the Project
 - **Frontend (User Portal):**  
-  👉 [http://localhost/shopping](http://localhost/shopping)  
+  👉 [http://localhost/shopping](http://localhost/L@SHOPEEZ)  
 
 - **Admin Panel:**  
-  👉 [http://localhost/shopping/admin](http://localhost/shopping/admin)  
+  👉 [http://localhost/shopping/admin](http://localhost/shopping/L@SHOPEEZ)  
 
 ---
 
@@ -46,5 +46,5 @@ Follow these steps to set up and run the project on your local machine:
 
 ## 5. Notes
 - Ensure **Apache** and **MySQL** are running in XAMPP/WAMP.  
-- You may update database credentials in `config.php` (or similar) if required.  
-- Upload folders can be cleaned before committing to GitHub; keep only sample images.  
+- You may update database credentials in `config.php`  if required.  
+    
